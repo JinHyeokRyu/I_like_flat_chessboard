@@ -5,7 +5,7 @@
 
 ## Camera Calibration
 
-왜곡된 Chessboard를 평평하게 만들기 위해서는 다양한 각도의 동영상이 필요합니다.
+왜곡된 Chessboard를 평평하게 만들기 위해서는 다양한 각도의 동영상이 필요합니다.<br>
 동영상에서 10프레임 단위로 이미지를 추출하여 camera calibration을 수행합니다.
 
 ### Camera Calibration Results
