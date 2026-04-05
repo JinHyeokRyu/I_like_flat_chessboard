@@ -12,6 +12,7 @@
 
 camera calibration이 완료되면, 여러분의 camera 정보와 distortion 정보가 출력됩니다.
 
+(예시)
 * The number of applied images = 58
 * RMS error = 1.6542274858249981
 * Camera matrix (K) = <br>
